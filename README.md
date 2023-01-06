@@ -102,10 +102,7 @@ adds translation from Arabic sign language to speech and real time help via crow
 
  <h1> <li>System Architecture </li> </h1> 
  <h1> <li>Experimental design and implementation </li> </h1> 
-
- 
-  <br><br>
-<h1> <li>Reference ✔️</li> </h1> 
+<h1> <li>Reference </li> </h1> 
  
  <p>  <li> <i> [Csis.org. 2021. Reading the Signs: Diverse Arabic Sign Languages. [online]
 Available at: <https://www.csis.org/analysis/reading-signs-diverse-arabic-signlanguages-0> [Accessed 11 September 2021]. </i> 
