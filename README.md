@@ -8,15 +8,29 @@
 <p align="center">
 <img src="./dash.svg" alt="" /> </p>
 <h1> <li> What is "Kaleem" 👂🏻🗣❔  </li> </h1>
+
  <p align="center">
-<img width="500" alt="Picturjje1" src="https://user-images.githubusercontent.com/59771760/150033082-fb278dc9-cfd3-4882-b443-77b60a497401.png" style="margin-left: 100px;">
- <br> <br> <br>  
+ 
+<!--  <img width="500" alt="Picturjje1" src="https://user-images.githubusercontent.com/59771760/150033082-fb278dc9-cfd3-4882-b443-77b60a497401.png" style="margin-left: 100px;">  -->
+ 
+<img width="313" alt="z" src="https://user-images.githubusercontent.com/59771760/211107194-b3993c17-4b38-4f84-b261-dc66ad99dfe8.png">
+
+
+
+
+ <br> 
+
 
  <a href="https://twitter.com/intent/follow?screen_name=Kaleemapp&tw_p=followbutton">
   <img src="https://img.shields.io/twitter/follow/Kaleemapp?label=%40Kaleemapp&style=social"> </a>
   <br><br>
  
+ <br>
+ <img width="700" alt="z" src="https://user-images.githubusercontent.com/59771760/211108472-2fa58645-8f4d-413e-8e4d-892b2c6574b1.png">
+ 
 </p>
+
+
 <p>
  "Kaleem" is an Arabic mobile application named “Kaleem" that enables Arabic users with communication
 disabilities to access their desires readily and speedily. As it will provide a voice for
@@ -27,11 +41,14 @@ whether by tracking the user’s hand movements towards the camera using words,
 phrases, or sentences that are ready to be used in “Kaleem” application
    </p>
 <p align="center">
-<img width="149" alt="image" src="https://user-images.githubusercontent.com/59771760/165963577-fa8136e5-f422-4964-ad2a-5f0cf9a36e90.png">
-
- <img width="149" alt="image" src="https://user-images.githubusercontent.com/59771760/165963312-3afe2509-d712-4d0b-b7d9-88f85ccd0ec2.png">
-<img width="150" alt="image" src="https://user-images.githubusercontent.com/59771760/165963338-dc2d6be4-bd23-4085-b59c-6ed470a5db20.png">
-<img width="152" alt="image" src="https://user-images.githubusercontent.com/59771760/165963375-6b958b15-51c3-4cb4-992c-ea15eb91248a.png">
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/59771760/165963577-fa8136e5-f422-4964-ad2a-5f0cf9a36e90.png">
+ 
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/59771760/211108356-7eb27839-ff69-4d56-8604-59bf10349591.png" style="margin-left: 100px;">
+ 
+ <img width="150" alt="image" src="https://user-images.githubusercontent.com/59771760/165963312-3afe2509-d712-4d0b-b7d9-88f85ccd0ec2.png" style="margin-left: 100px;">
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/59771760/165963338-dc2d6be4-bd23-4085-b59c-6ed470a5db20.png" style="margin-left: 500px;">
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/59771760/165963375-6b958b15-51c3-4cb4-992c-ea15eb91248a.png" style="margin-left: 200px;">
+ 
 
 </p>
 
@@ -58,8 +75,10 @@ people under all circumstances. </p>
 ![giphy (4)](https://user-images.githubusercontent.com/59771760/150480555-ccd752b8-1fff-4d65-897b-452b1d140e52.gif)
 
 </h2>
-<h1> <li> Why "Kaleem" ❔ </li> </h1>
-<h3> <li> Benchmarking </li> <h3>
+
+ <h1> <li>Domain Analysis </li> </h1> 
+<h2> <li> Why "Kaleem" ❔ </li> </h2>
+<h3> <li> Benchmarking </li> </h3>
 <p> The process of studying the domain aims to comprehend previously developed
 similar systems [1]. In this section, the available similar applications will be reviewed,
  and their main functionalities will be compared to “Kaleem” application. </p>
@@ -81,6 +100,8 @@ from text to speech, or providing verbal sentences for images.
 adds translation from Arabic sign language to speech and real time help via crowdsourcing
   features. </p>
 
+ <h1> <li>System Architecture </li> </h1> 
+ <h1> <li>Experimental design and implementation </li> </h1> 
 
  
   <br><br>
