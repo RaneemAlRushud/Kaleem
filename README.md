@@ -101,7 +101,7 @@ adds translation from Arabic sign language to speech and real time help via crow
   features. </p>
 
  <h1> <li>System Architecture </li> </h1> 
- <h1> <li>Experimental design and implementation </li> </h1> 
+ <h1> <li>Experimental Design and Implementation </li> </h1> 
 <h1> <li>Reference </li> </h1> 
  
  <p>  <li> <i> [Csis.org. 2021. Reading the Signs: Diverse Arabic Sign Languages. [online]
