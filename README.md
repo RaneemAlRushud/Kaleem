@@ -80,23 +80,13 @@ from text to speech, or providing verbal sentences for images.
 "Kaleem" is a comprehensive Arabic application that supports all available features and
 adds translation from Arabic sign language to speech and real time help via crowdsourcing
   features. </p>
- 
- 
- <h1> <li> Platfoorm and tools 🛠⚙️ </li> </h1>
- 
- <h2> <li> Database Schema </li> </h2>
- <p></p>
-  <h3> <li> </li> </h3>
- <p> </p>
- 
-   <h3> <li> </li> </h3>
- 
+
+
  
   <br><br>
-<h1> <li>References ✔️</li> </h1> 
+<h1> <li>Reference ✔️</li> </h1> 
  
- <p>  <li> <i> [1] Csis.org. 2021. Reading the Signs: Diverse Arabic Sign Languages. [online]
-Available at: <https://www.csis.org/analysis/reading-signs-diverse-arabic-signlanguages-0> [Accessed 11 September 2021]. </i>  <li> </p>
+ <p>  <li> <i> [Csis.org. 2021. Reading the Signs: Diverse Arabic Sign Languages. [online]
+Available at: <https://www.csis.org/analysis/reading-signs-diverse-arabic-signlanguages-0> [Accessed 11 September 2021]. </i> 
   
-<p>  <li> <i> [2]  Firebase Documentation. [online] Available at: <https://firebase.google.com/docs/firestore> [Accessed 22 November 2021]. </i>
-</li></p>
+
